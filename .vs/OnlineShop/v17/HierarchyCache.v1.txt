@@ -1,0 +1,308 @@
+﻿++Solution 'OnlineShop' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:OnlineShop.sln
+++OnlineShop
+i:{00000000-0000-0000-0000-000000000000}:OnlineShop
+++Connected Services 
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:>821
+++Dependencies
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:>820
+++Properties
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\properties\
+++wwwroot
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\
+++Areas
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\
+++Admin
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\
+++Controllers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\controllers\
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\controllers\
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\controllers\
+++HomeController.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\controllers\homecontroller.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\controllers\homecontroller.cs
+++ProductController.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\controllers\productcontroller.cs
+++ProductTypesController.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\controllers\producttypescontroller.cs
+++Views
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\views\
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\
+++Home
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\home\
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\views\home\
+++Product
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\product\
+++Create.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\product\create.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\producttypes\create.cshtml
+++Delete.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\product\delete.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\producttypes\delete.cshtml
+++Details.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\product\details.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\views\home\details.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\producttypes\details.cshtml
+++Edit.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\product\edit.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\producttypes\edit.cshtml
+++Index.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\product\index.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\views\home\index.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\home\index.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\producttypes\index.cshtml
+++ProductTypes
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\producttypes\
+++_ViewImports.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\_viewimports.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\views\_viewimports.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\admin\views\_viewstart.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\views\_viewstart.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\_viewstart.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\identity\pages\_viewstart.cshtml
+++Customer
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\
+++Cart.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\views\home\cart.cshtml
+++Privacy.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\customer\views\home\privacy.cshtml
+++Identity
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\identity\
+++Data
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\data\
+++Migrations
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\migrations\
+++Models
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\models\
+++Utility
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\utility\
+++SessionExtensions.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\utility\sessionextensions.cs
+++appsettings.json
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\appsettings.json
+++Program.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\program.cs
+++ScaffoldingReadMe.txt
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\scaffoldingreadme.txt
+++Startup.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\startup.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:>847
+++Analyzers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:analyzers
+++Frameworks
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:frameworks
+++Packages
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:packages
+++launchSettings.json
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\properties\launchsettings.json
+++serviceDependencies.json
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\properties\servicedependencies.json
+++css
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\css\
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\
+++Images
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\
+++js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\js\
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\
+++favicon.ico
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\favicon.ico
+++Pages
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\areas\identity\pages\
+++ApplicationDbContext.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\data\applicationdbcontext.cs
+++20220411124113_initproduct.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\migrations\20220411124113_initproduct.cs
+++20220420050914_addproductmodel.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\migrations\20220420050914_addproductmodel.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\migrations\applicationdbcontextmodelsnapshot.cs
+++ErrorViewModel.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\models\errorviewmodel.cs
+++Products.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\models\products.cs
+++ProductTypes.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\models\producttypes.cs
+++Shared
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\shared\
+++appsettings.Development.json
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:c:\users\india\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:c:\users\india\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:c:\users\india\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.12\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\microsoft.netcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (5.0.12)
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:>834
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.12)
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:>835
+++Microsoft.AspNetCore.Identity.UI (5.0.12)
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:>838
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.12)
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:>833
+++Microsoft.EntityFrameworkCore.Tools (5.0.12)
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:>836
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:>837
+++serviceDependencies.local.json
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\properties\servicedependencies.local.json
+++site.css
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\css\site.css
+++3c721aed557db4c7e4a410334357f290.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\3c721aed557db4c7e4a410334357f290.jpg
+++51b.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\51b.jpg
+++5d.png
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\5d.png
+++7.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\7.jpg
+++8674_2.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\8674_2.jpg
+++Acer.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\acer.jpg
+++download (1).jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\download (1).jpg
+++download.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\download.jpg
+++download33.png
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\download33.png
+++imagess.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\imagess.jpg
+++instoke.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\instoke.jpg
+++iphone.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\iphone.jpg
+++Karbon.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\karbon.jpg
+++p.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\p.jpg
+++product-.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\product-.jpg
+++R.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\r.jpg
+++re.png
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\re.png
+++sam.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\sam.jpg
+++sv.jpg
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\images\sv.jpg
+++site.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\js\site.js
+++bootstrap
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\
+++jquery
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery\
+++jquery-validation
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation-unobtrusive\
+++20220411124113_initproduct.Designer.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\migrations\20220411124113_initproduct.designer.cs
+++20220420050914_addproductmodel.Designer.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\migrations\20220420050914_addproductmodel.designer.cs
+++_ButtonPartial.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\shared\_buttonpartial.cshtml
+++_ButtonPartialsecond.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\shared\_buttonpartialsecond.cshtml
+++_Layout.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\views\shared\error.cshtml
+++dist
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery\dist\
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery\license.txt
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Order.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\models\order.cs
+++OrderDetails.cs
+i:{00ce5e1f-66b9-46d0-b838-6bb3f19f0cd0}:e:\.net training\asp core\onlineshop\onlineshop\models\orderdetails.cs
